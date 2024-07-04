@@ -1,11 +1,11 @@
 * {background-color: black;}
-h1 {font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
-font-size: 66px;
+h1 {font-family: "Norse", 'Courier New', Courier, monospace, Helvetica, sans-serif;
+font-size: 105px;
 margin:0;
 color: white;}
 
 body {
-    font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
-    font-size: 20px;
+    font-family: "Norse", 'Courier New', Courier, monospace, Helvetica, sans-serif;
+    font-size: 35px;
     color: white;
   }
