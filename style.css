@@ -1,0 +1,17 @@
+* {background-color: black;}
+
+h1 {font-family: "Norse", Arial, Helvetica, sans-serif;
+font-size: 160px;
+margin:0;
+color: white;}
+
+body {
+    font-family: "Norse", Arial, Helvetica, sans-serif;
+    color: white;
+  }
+
+.button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+  }
