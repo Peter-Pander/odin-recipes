@@ -10,7 +10,8 @@
 }
 
 
-* {background-color: black;}
+* {background-color: black;
+}
 
 h1 {font-family: "Norse", 'Courier New', Courier, monospace, Helvetica, sans-serif;
 font-size: 118px;
@@ -37,3 +38,5 @@ body {
     margin-left: 80px;
     margin-bottom: 20px;
     padding: 10px;}
+
+    div, h1, p {text-align: center;}
