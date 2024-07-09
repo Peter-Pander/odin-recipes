@@ -16,3 +16,14 @@ div, h2 {text-align: center;}
 
 p, ul, ol {width: 900px;
 margin: 0 auto;}
+
+.container { /* NEW */
+  background-color: black; /* Background color for the container */
+  border: 3px solid white; /* Border around the entire container */
+  text-align: left; /* Left align text inside the container */
+  padding-bottom: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+  width: fit-content; /* Adjust width to fit content */
+  margin: 0 auto; /* Center the container */
+}
